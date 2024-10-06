@@ -1,0 +1,5 @@
+aws-lambda-powertools[validation]
+jsonpickle
+simplejson
+python-jose[cryptography]
+aws_requests_auth
