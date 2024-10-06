@@ -6,7 +6,7 @@ A Full-Stack Multi-Tenant Serverless SaaS Demo Setup on AWS.
 
 ## Blog Post
 
-For more info see the [Blog Post](https://safelyup.net/).
+For more info see the [Blog Post](https://safelyup.net/a-full-stack-multi-tenant-serverless-saas-setup-on-aws-0ce850162340).
 
 ## Local Deployment to AWS
 
@@ -17,7 +17,7 @@ aws_access_key_id =
 aws_secret_access_key =
 ```
 
-Next. deploy the setup and start the development console locally.
+Next, deploy the setup and start the development console locally.
 ```
 cd stack
 npx sst dev
